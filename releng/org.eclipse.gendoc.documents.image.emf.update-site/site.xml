@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.eclipse.gendoc.documents.image.emf.feature_0.6.0.qualifier.jar" id="org.eclipse.gendoc.documents.image.emf.feature" version="0.6.0.qualifier">
+      <category name="EMF for Gendoc"/>
+   </feature>
+   <category-def name="EMF for Gendoc" label="new plug-in"/>
+</site>

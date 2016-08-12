@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Gendoc Images emf
+Bundle-SymbolicName: org.eclipse.gendoc.documents.image.emf;singleton:=true
+Bundle-Version: 0.6.0.qualifier
+Bundle-Activator: org.eclipse.gendoc.documents.image.emf.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.gendoc.documents,
+ org.apache.batik.dom.svg;bundle-version="[1.6.0,1.7.0)",
+ org.apache.batik.util;bundle-version="[1.6.0,1.7.0)",
+ org.eclipse.gendoc.services;bundle-version="0.5.0",
+ org.apache.batik.dom;bundle-version="[1.6.0,1.7.0)",
+ org.apache.commons.cli;bundle-version="1.2.0",
+ org.apache.batik.bridge;bundle-version="[1.6.0,1.7.0)"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: 
+ .,
+ lib/freehep-graphicsio-2.4.jar,
+ lib/freehep-graphicsio-emf-2.4.jar,
+ lib/freehep-graphicsio-pdf-2.4.jar,
+ lib/freehep-graphicsio-svg-2.4.jar,
+ lib/freehep-graphics2d-2.4.jar,
+ lib/freehep-graphicsbase-2.4.jar,
+ lib/freehep-io-2.2.2.jar
