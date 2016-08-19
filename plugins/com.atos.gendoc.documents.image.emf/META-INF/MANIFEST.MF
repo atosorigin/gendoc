@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Gendoc Images emf
-Bundle-SymbolicName: org.eclipse.gendoc.documents.image.emf;singleton:=true
+Bundle-SymbolicName: com.atos.gendoc.documents.image.emf;singleton:=true
 Bundle-Version: 0.6.0.qualifier
-Bundle-Activator: org.eclipse.gendoc.documents.image.emf.Activator
+Bundle-Activator: com.atos.gendoc.documents.image.emf.Activator
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
  org.eclipse.gendoc.documents,

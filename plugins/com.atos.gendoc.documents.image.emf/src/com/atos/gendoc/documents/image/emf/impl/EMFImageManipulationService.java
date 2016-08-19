@@ -8,11 +8,11 @@
  * http://www.eclipse.org/legal/epl-v10.html
  *
  * Contributors:
- * Jean-François Rolland (ATOS) - Initial API and implementation
+ * Jean-Franï¿½ois Rolland (ATOS) - Initial API and implementation
  * Tristan Faure (ATOS)
  *
  *****************************************************************************/
-package org.eclipse.gendoc.documents.image.emf.impl;
+package com.atos.gendoc.documents.image.emf.impl;
 
 import java.awt.Color;
 import java.awt.Dimension;

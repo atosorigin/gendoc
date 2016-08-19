@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>org.eclipse.gendoc.documents.image.emf.update-site</groupId>
+    <groupId>com.atos.gendoc.documents.image.emf.update-site</groupId>
     <artifactId>parent</artifactId>
-    <relativePath>../../releng/org.eclipse.gendoc.documents.image.emf.update-site/pom.xml</relativePath>
+    <relativePath>../../releng/com.atos.gendoc.documents.image.emf.update-site/pom.xml</relativePath>
     <version>0.6.0-SNAPSHOT</version>
   </parent>
   
-  <artifactId>org.eclipse.gendoc.documents.image.emf.feature</artifactId>
+  <artifactId>com.atos.gendoc.documents.image.emf.feature</artifactId>
   <packaging>eclipse-feature</packaging>
 </project>

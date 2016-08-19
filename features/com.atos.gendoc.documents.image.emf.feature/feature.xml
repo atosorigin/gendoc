@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="org.eclipse.gendoc.documents.image.emf.feature"
-      label="Feature"
+      id="com.atos.gendoc.documents.image.emf.feature"
+      label="Gendoc Feature for EMF images"
       version="0.6.0.qualifier">
 
    <description url="http://www.example.com/description">
@@ -17,7 +17,7 @@
    </license>
 
    <plugin
-         id="org.eclipse.gendoc.documents.image.emf"
+         id="com.atos.gendoc.documents.image.emf"
          download-size="0"
          install-size="0"
          version="0.0.0"

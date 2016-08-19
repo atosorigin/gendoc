@@ -5,7 +5,7 @@
          point="org.eclipse.gendoc.imageTypes"> -->
       <imageType
             extension="emf"
-            imageManipulationService="org.eclipse.gendoc.documents.image.emf.impl.EMFImageManipulationService">
+            imageManipulationService="com.atos.gendoc.documents.image.emf.impl.EMFImageManipulationService">
       </imageType>
   <!-- </extension>-->
 </plugin>
